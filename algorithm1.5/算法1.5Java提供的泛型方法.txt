@@ -1,0 +1,2 @@
+1. 使用Object表示泛型
+2. 使用Comparable接口类型表示泛型
